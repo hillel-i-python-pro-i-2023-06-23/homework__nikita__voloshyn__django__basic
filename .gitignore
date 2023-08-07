@@ -123,7 +123,6 @@ celerybeat.pid
 .env
 .venv
 env/
-../homework__nikita__voloshyn__08__flask/venv/
 ENV/
 env.bak/
 venv.bak/
