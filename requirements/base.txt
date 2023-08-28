@@ -1,0 +1,4 @@
+
+faker==19.2
+requests==2.31.0
+django==4.2.3
