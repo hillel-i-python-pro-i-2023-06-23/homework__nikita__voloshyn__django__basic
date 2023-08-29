@@ -9,4 +9,5 @@
 !Makefile
 !docker/app
 !requirements
+!.env.homework
 
